@@ -42,7 +42,7 @@ body {
     width: 100%;
     max-width: 420px;
     min-height: 200px;
-    height: 630px;
+    height: 550px;
     margin: 20px;
   }
   
@@ -116,7 +116,7 @@ body {
     display: flex;
     justify-content: right;
     min-height: 200px;
-    height: 600px;
+    height: 550px;
     min-width: 480px;
     width: 900px;
     margin-right: 30px;
